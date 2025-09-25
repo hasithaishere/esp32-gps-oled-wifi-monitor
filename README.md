@@ -43,14 +43,8 @@ What began as a child’s innocent curiosity has grown into this project: a **re
 
 ## 🔌 Demo
 
- <img src="./docs/demo.jpeg" alt="Circuit Diagram" width="480" />
- 
- <video src="./docs/demo-animate.mp4" width="480" controls muted playsinline poster="./docs/demo.jpeg">
-   <source src="./docs/demo-animate.mp4" type="video/mp4" />
-   Your browser does not support the video tag. 
-   <a href="./docs/demo-animate.mp4">Download the demo video</a>.
- </video>
- 
+ <img src="./docs/demo.jpeg" alt="Demo - Image" width="480" />
+ <img src="./docs/demo-animate.gif" alt="Demo - Animation" width="360" />
 
 ---
 
@@ -87,7 +81,7 @@ The dashboard shows:
 
 ## 📂 Project Files
 - `esp32_gps.ino` → Main Arduino sketch (GPS parsing, OLED UI, WiFi server).
-- `docs/circuit-diagram.svg` → Clean, repo-friendly circuit diagram.
+- `docs/circuit-diagram.svg`
 
 ---
 
